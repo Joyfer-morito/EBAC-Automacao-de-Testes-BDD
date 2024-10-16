@@ -20,7 +20,7 @@ Você pode mudar algumas configurações nos arquivos conforme necessário.
 Rode os testes na nuvem do Sauce Labs e veja os resultados.
 
 ## Contribuição
-Se você quiser ajudar, fique à vontade para abrir sugestões ou fazer mudanças!
+- **Se você quiser ajudar, fique à vontade para abrir sugestões ou fazer mudanças!**
 
 ## Licença
-Este projeto está sob a MIT License.
+- **Este projeto está sob a MIT License.**
