@@ -6,7 +6,7 @@ Este projeto é sobre testes de funcionalidade usando a linguagem Gherkin para d
 - **loguin.feature**: Critérios de aceitação para a funcionalidade de login.
 
 ## O que Você Precisa
-- Um ambiente para executar testes Gherkin, como o Cucumber.
+- **Um ambiente para executar testes Gherkin, como o Cucumber.**
 
 ## Como Usar
 - **Clone o repositório:**
