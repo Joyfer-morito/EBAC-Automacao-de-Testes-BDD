@@ -1,5 +1,3 @@
-## Este projeto é sobre testes de funcionalidade usando a linguagem Gherkin para definir os critérios de aceitação de diferentes funcionalidades do sistema. O objetivo é garantir que o software atenda às expectativas e requisitos definidos.
-
 ## O que Tem Aqui
 - **checkout.feature**: Critérios de aceitação para a funcionalidade de checkout.
 - **configuracao.feature**: Critérios de aceitação para a funcionalidade de configuração.
