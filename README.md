@@ -19,8 +19,8 @@ Você pode mudar algumas configurações nos arquivos conforme necessário.
 Execute os testes usando o Sauce Labs:
 Rode os testes na nuvem do Sauce Labs e veja os resultados.
 
-Contribuição
+##Contribuição
 Se você quiser ajudar, fique à vontade para abrir sugestões ou fazer mudanças!
 
-Licença
+##Licença
 Este projeto está sob a MIT License.
