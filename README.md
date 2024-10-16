@@ -1,2 +1,2 @@
 # EBAC-Engenharia-de-Qualidade-de-Software
-📚 Repositório do Curso de Engenharia de Qualidade de Software - EBAC Este repositório reúne meus projetos e atividades do curso de Engenharia de Qualidade de Software da EBAC, com exemplos práticos e exercícios voltados para garantir a qualidade e eficiência no desenvolvimento de software.
+📚 Repositório do curso de Automação de Testes BDD da EBAC. Inclui cenários de testes de aceitação escritos em Gherkin para funcionalidades como checkout, configuração e login.
