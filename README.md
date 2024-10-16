@@ -10,7 +10,7 @@
 
 ## Como Usar
 - **Clone o repositório:**
-git clone https://github.com/seuusuario/gherkin-testing.git
+git clone 
 - **Entre na pasta do projeto:**
 cd gherkin-testing
 - **Abra os arquivos de teste com a ferramenta que você escolher.**
